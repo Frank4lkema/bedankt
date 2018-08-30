@@ -1,0 +1,61 @@
+.banner{
+  text-align: center;
+  background-image: url("https://unsplash.it/1300/600?image=885");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+.banner h1 {
+  color: white;
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.paragraaf{
+font-size: 25px;
+text-align: center;
+padding: 30px 150px;
+background: #F7F7FF;
+font-family: 'Montserrat', sans-serif;
+
+}
+
+.fotoraam{
+	background: #F7F7FF;
+	padding-bottom: 10px;
+}
+
+.card{
+	float:right; 
+	width: 20%;
+	margin: 10px;
+	background-color: #F6F7F8 !important;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.recept{
+	padding-left: 10px;
+	padding-right: 28px;
+
+
+}
+
+body{
+	background-color: #293132 !important;
+}
+
+.text{
+	text-align: center;
+	padding: 30px 150px;
+	background-color: #293132!important;
+	color: #F1F2EB;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.text p {
+	font-size: 25px;
+}
+
+
+
